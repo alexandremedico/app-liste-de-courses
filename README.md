@@ -4,7 +4,7 @@
 
 Projet pour un stage.
 
-On m'a demandé de créer un application de liste de course pour voir mes compétences pour être pris en stage.
+On m'a demandé de créer une application de liste de course pour voir mes compétences pour être pris en stage.
 
 Mettre l'inspecteur de votre Browser et dimensionner la page en 425px pour une meilleur qualité niveau responsive.
 
